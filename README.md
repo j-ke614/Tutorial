@@ -10,6 +10,5 @@ This is a basic tutorial on three types of Data Structures
 
 ## Info 
 
-I have been programming for 2 years now and learning all the time. I enjoy writing code. This class is the Data Structures Class and I will be covering the above mentioned topics in my tutorial. 
-
-Email Address: Cor15009@byui.edu
+I have been programming for 2 years now and learning all the time. I enjoy writing code. This class is the Data Structures Class and I will be covering the 
+above mentioned topics in my tutorial. 
